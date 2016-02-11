@@ -7,7 +7,7 @@ A project to track tasks associated with transitioning web apps to web mercator 
   - [ ] git ignore `layer-selector`
 - [ ] add `layer-selector` to the require packages
 - [ ] update the build profile `userConfig.packages` to get templates inlined
-- [ ] update main css file to include `layer-selectr/resources/LayerSelector.css` 
+- [ ] update main css file to include `layer-selector/resources/LayerSelector.css` 
 - [ ] Update a secret config to have your quad words.
 ```js
     xhr(require.baseUrl + 'secrets.json', {
