@@ -33,10 +33,10 @@ A project to track tasks associated with transitioning web apps to web mercator 
         new BaseMap(mapDiv, {
             useDefaultBaseMap: false,
             extent: new Extent({
-                xmax: -12010849.397533866,
-                xmin: -12898741.918094235,
-                ymax: 5224652.298632992,
-                ymin: 4422369.249751998,
+                xmax: -11762120.612131765,
+                xmin: -13074391.513731329,
+                ymax: 5225035.106177688,
+                ymin: 4373832.359194187,
                 spatialReference: {
                     wkid: 3857
                 }
