@@ -28,6 +28,7 @@ A project to track tasks associated with transitioning web apps to web mercator 
             baseLayers: ['Hybrid', 'Lite', 'Terrain', 'Topo', 'Color IR']
         });
 ```
+- [ ] Beware that `map.on('load')` may be firing earlier than before you switched to using layer-selector
 - [ ] Update extent on `agrc/widgets/map/BaseMap`
 ```js
         new BaseMap(mapDiv, {
