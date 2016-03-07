@@ -55,3 +55,4 @@ A project to track tasks associated with transitioning web apps to web mercator 
   - [ ] Remove `mapServiceURL`
   - [ ] Remove `searchLayerIndex`
 - [ ] Replace all refereces to `agrc/widgets/locate/FindGeneric` with `MagicZoom`
+- [ ] Update any visible scales ranges used since they may be different in web mercator.
